@@ -19,11 +19,11 @@ console.log (c);
 var person =  {
 
     "firstname": "Tika",
-    "lastname": "Bulbulashvili",
-    "age": 37,
-    "address": [149, "Tehama St", "Brooklyn", "NY", 11218 ],
-    "phone no": 9293404453,
-    "email": "tikabulbulashvili@gmail.com",
+    "lastname": "Suny",
+    "age": 21,
+    "address": [123, "Tehama St", "Brooklyn", "NY", 11215 ],
+    "phone no": 1233212855,
+    "email": "madametiks@gmail.com",
 
     "friends" : [ "Fish", "Tasha", "oLi", "andManyMore<3" ]
 
