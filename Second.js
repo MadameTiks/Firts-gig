@@ -4,7 +4,8 @@ let a = 87; b = 65
 console.log(a + b);
 
 
-// 2.გამოაცხადეთ ობიექტი student, ფროფერთებით: firstName, lastName, age, email, marks
+/* 2.გამოაცხადეთ ობიექტი student, ფროფერთებით: firstName, lastName, age, email, marks
+   3.დაბეჭდეთ student ის სახელი*/
 
 let student = {
     firstName: "Kate",
@@ -31,7 +32,7 @@ if (m>n) {
 ( მაგ თუ სახელი არის Irakli  უნდა დაიბეჭდოს Rise and shine, Irakli ! ) */
 
 let studentName = "Tika"
-console.log ("Rise and shine" + studentName);
+console.log ("Rise and shine," , + studentName);
 
 
 /* 6.გამოაცხადეთ ცვლადი bonus და salary ცვლადები, salary -ს მიანიჭეთ სასურველი რიცხვითი მნიშვნელობა,
@@ -58,6 +59,7 @@ let t=23;
 let d=t/2;
 let c=(t+d);
 console.log (c);
+
 
 
 /* 8.გამოაცხადეთ მასივი phones ელემენტებით : Iphone, Samsung, Pixel, Huawei, Xiaomi და დაბეჭდეთ.
