@@ -53,12 +53,6 @@ BasketballGameScore ()
 (მაგალითად თუ start არის 3 და end არის 6 
 მასივის ელემენტები უნდა იყოს [3,4,5,6] ) ( arr.push()- მასივში ელემენტის დამატება)
 */
-function parameter(start, end) {
-
-
-}
-
-
 
 
 
