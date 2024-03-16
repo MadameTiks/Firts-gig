@@ -33,9 +33,9 @@ console.log(calculatenums(33, 37));
 /* 3.დაწერეთ ფუნქცია, რომელიც დაითვლის და დააბრუნებს კალათბურთის თამაშისას აღებულ ქულას ( ქულების ჯამს).
 ფუნქციას აქვს სამი პარამეტრი a)პირველი პარამეტრი - 1 ქულიანების რაოდენობა b)მეორე პარამეტრი -  2 ქულიანების რაოდენობა c)მესამე - 3 ქულიანების რაოდენობა   */
 
-function BasketballGamesum(points1, points2, points3) {
+function BasketballGamesum(singlepoints, doublepoints, tripplepoints) {
 
-    return points1 + points2 + points3;
+    return singlepoints + doublepoints + tripplepoints;
 }
 console.log(BasketballGamesum(7, 22, 123));
 
